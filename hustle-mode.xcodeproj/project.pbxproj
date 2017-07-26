@@ -12,6 +12,7 @@
 		F70BABE91F276F98001C5E0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F70BABE71F276F98001C5E0B /* Main.storyboard */; };
 		F70BABEB1F276F98001C5E0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F70BABEA1F276F98001C5E0B /* Assets.xcassets */; };
 		F70BABEE1F276F98001C5E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F70BABEC1F276F98001C5E0B /* LaunchScreen.storyboard */; };
+		F70BABF61F289A6E001C5E0B /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = F70BABF51F27701D001C5E0B /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F70BABF61F289A6E001C5E0B /* hustle-on.wav in Resources */,
 				F70BABEE1F276F98001C5E0B /* LaunchScreen.storyboard in Resources */,
 				F70BABEB1F276F98001C5E0B /* Assets.xcassets in Resources */,
 				F70BABE91F276F98001C5E0B /* Main.storyboard in Resources */,
